@@ -1,0 +1,6 @@
+.application {
+	width: 100%;
+	height: 100%;
+	border: 1px solid blue;
+	background: url(image.png), url(image.jpg);
+}
